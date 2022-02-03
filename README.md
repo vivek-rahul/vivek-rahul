@@ -2,7 +2,7 @@
 - 👀 I love Capture the flag 😍, BurpSuite😉, wireshark😊
 - 🌱 node.js enthusiast
 - 💞️ CEH v10
-- 📫 reach me @heyy.vivekk
+- 📫 reach me @heyy.vivekk (IG)
 
 <!---
 vivek-rahul/vivek-rahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
